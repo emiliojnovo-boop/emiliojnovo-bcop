@@ -24,8 +24,8 @@ Training AI models to understand Spanish authentically—including dialect varia
 ## 💼 Professional Background
 
 - **17 years** bilingual operations leadership
-- **100+ hours** Spanish linguistics training (computational linguistics, morphology, syntax)
-- **500+ hours** hands-on AI model training (GPT-4, Claude, Perplexity)
+- **1500+ hours** Spanish linguistics training (computational linguistics, morphology, syntax)
+- **2000+ hours** hands-on AI model training (GPT-4, Claude, Perplexity)
 - **100+ professionals** trained in communication, quality assurance, and process optimization
 - Managed **multi-million dollar business units** with zero compliance violations
 
